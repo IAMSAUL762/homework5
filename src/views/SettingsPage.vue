@@ -1,0 +1,3 @@
+<template>
+    Settigns Page
+</template>
